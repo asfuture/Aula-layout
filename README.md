@@ -1,2 +1,2 @@
-# bloomin
+# layout
 layouts de loja 
